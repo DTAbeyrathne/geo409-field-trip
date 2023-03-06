@@ -13,5 +13,5 @@ Below is a map measuring canopy height of trees within the University of Kentuck
 ![UKy Campus canopy model](M4_trees_map.jpg)   
 Download the map here – [geospatial PDF](M4_UKY_trees2.pdf)
 
-These maps were created by Dilni Abeyrathne ([@DTAbeyrathne](https://github.com/DTAbeyrathne)) for the GEO409-001 (Spring 2023) class in the University of Kentucky's Department of Geography. This visualization was published on March 5th, 2023.
+These maps were created by Dilni Abeyrathne ([@DTAbeyrathne](https://github.com/DTAbeyrathne)) for the GEO409-001 (Spring 2023) class in the University of Kentucky's Department of Geography. This webpage visualization was published on March 5th, 2023.
 
