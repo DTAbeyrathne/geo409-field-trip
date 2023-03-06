@@ -1,7 +1,7 @@
 # GEO409 Field Trip Maps
 Two maps are included for the class field trip, visualizing Kentucky's various landcover types and tree canopy coverage across UKy's central campus area.
 
-![Kentucky Counties](M4_KY_landcover_map.jpg)   
+![Kentucky Counties](M4_landcover_map.jpg)   
 Selected landcover types of Kentucky and its counties – [Download geospatial PDF](M4_KY_landcover.pdf)
 
 ![UKy Campus canopy model](M4_trees_map.jpg)   
